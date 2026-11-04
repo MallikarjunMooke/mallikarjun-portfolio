@@ -10,4 +10,7 @@ export default defineConfig({
       failOnError: true,
     },
   },
+  vite: {
+    base: "/mallikarjun-portfolio/",
+  },
 });
